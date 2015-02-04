@@ -15,6 +15,9 @@ public class Main {
         System.out.println(a++>100 && b-->200);
         System.out.println(a);
         System.out.println(b);
+        System.out.println(++a>100 || b-->200);
+        System.out.println(a);
+        System.out.println(b);
         int x1=100;
         int x2=100;
         int x3=200;
